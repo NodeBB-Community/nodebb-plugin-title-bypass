@@ -1,0 +1,9 @@
+{
+	"id": "nodebb-plugin-title-bypass",
+	"url": "https://github.com/NodeBB/nodebb-plugin-title-bypass",
+	"library": "./library.js",
+	"hooks": [],
+	"scripts": [
+		"static/lib/main.js"
+	]
+}
