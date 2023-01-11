@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-title-bypass",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A plugin allowing the title to be optional",
   "main": "library.js",
   "repository": {
